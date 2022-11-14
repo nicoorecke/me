@@ -5,7 +5,7 @@ import { Menu } from '../Menu';
 function Homepage() {
   return (
     <React.Fragment>
-        <h1>Hola, Bienvenido a mi sitio Web</h1>
+        <h1>Welcome to my website</h1>
         <Menu className="holas"/>
     </React.Fragment>
     
